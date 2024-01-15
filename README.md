@@ -2,7 +2,9 @@
 
 This project is from a Udemy course on React.
 
-It creates a simple web app that had four Timer games where the object is to stop the timer close to the target time listed. Each game opens its own modal to display the results.
+It creates a simple web app that has four Timer games where the objective is to start the timer and then try and stop the timer close to the target time listed.
+
+Each game opens its own modal to display the results.
 
 ## Concepts Applied
 
